@@ -4,12 +4,14 @@ Kaggle Competition - Intermediate Machine Learning Course at opencampus (Kiel, G
 
 ## Structure of the Project
 
-- Literature Review
-- Exploratory Data Analysis
-- Model without Augmentation
-- Models with Augmentation
-- Presentation
-- Submission
+- [Literature Review](Literature_Review/Literature.md)
+- [Exploratory Data Analysis](EDA/EDA.ipynb)
+- [Model without Augmentation](Model_Without_Augmentation/Model_Without_Augmentation.ipynb)
+- [Models with Augmentation](Models_With_Augmentation)
+  - [Training with Augmentation](Models_With_Augmentation/training_with_augmentation.ipynb)
+  - [Faster-RCNN with Convolutional Downsampling](Models_With_Augmentation/faster_rcnn_conv_downsampler.ipynb)
+- [Presentation](Presentation/Presentation.pdf)
+- [Submission](submission.ipynb)
   
 
 ## Dataset
