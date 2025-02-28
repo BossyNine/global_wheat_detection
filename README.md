@@ -10,8 +10,8 @@ Kaggle Competition - Intermediate Machine Learning Course at opencampus (Kiel, G
 - [Models with Augmentation](Models_with_Augmentation)
   - [Training with Augmentation](Models_with_Augmentation/training_with_augmentation.ipynb)
   - [Faster-RCNN with Convolutional Downsampling](Models_with_Augmentation/fasterrcnn_conv_downsampler.ipynb)
-- [Presentation](Presentation/Presentation.pdf)
-- [Submission](submission.ipynb)
+- [Presentation](Presentation/presentation.pdf)
+- [Submission](Submission/submission.ipynb)
   
 
 ## Dataset
