@@ -8,7 +8,9 @@ Kaggle Competition - Intermediate Machine Learning Course at opencampus (Kiel, G
 - Exploratory Data Analysis
 - Model without Augmentation
 - Models with Augmentation
+- Presentation
 - Submission
+  
 
 ## Dataset
 
