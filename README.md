@@ -4,11 +4,11 @@ Kaggle Competition - Intermediate Machine Learning Course at opencampus (Kiel, G
 
 ## Structure of the Project
 
-- literature review
-- exploratory data analysis
-- model without augmentation
-- final model
-- scores
+- Literature Review
+- Exploratory Data Analysis
+- Model without Augmentation
+- Models with Augmentation
+- Submission
 
 ## Dataset
 
